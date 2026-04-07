@@ -15,4 +15,3 @@ def export_tx_history(address, save_path="tx_history.csv"):
 
 if __name__ == "__main__":
     export_tx_history("0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045")
- 
